@@ -1,0 +1,29 @@
+{
+    "name": "jaajbt-cli",
+    "version": "3.0.0",
+    "description": "Syncing building tools/files (WIP)",
+    "main": "jaaJBT.js",
+    "scripts": {
+        "test": "node jaaJBT.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jaandrle/jaaJBT-cli.git"
+    },
+    "keywords": [
+        "cli",
+        "javascript"
+    ],
+    "author": "Jan Andrle <andrle.jan@centrum.cz>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jaandrle/jaaJBT-cli/issues"
+    },
+    "homepage": "https://github.com/jaandrle/jaaJBT-cli#readme",
+    "jaaJBT": {
+        "resourses": [],
+        "scripts": {},
+        "rename": {},
+        "config": {}
+    }
+}
