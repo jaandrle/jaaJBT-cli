@@ -1,7 +1,7 @@
 /* jshint esversion: 6,-W097, -W040, node: true, expr: true, undef: true */
 /* node has 5min cahce for requests!!! */
 const /* configs files paths */
-    version= "3.0.2",
+    version= "3.0.3",
     config_key_name= "jaaJBT",
     config_remote_name= "jaaJBT.json";
 const /* dependences */
